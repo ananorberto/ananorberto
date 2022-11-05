@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🌱 Cursando Engenharia de Software - Universidade de Brasília (UnB)
+- 🌱 Cursando Engenharia de Software - (UnB)
 - 📫 How to reach me: norbertoana16@gmail.com
 
 ##
