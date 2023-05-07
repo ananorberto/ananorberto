@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/01/7c/b9/017cb93bf13fdb75adaf2d379e6dba18.gif" min-width="350px" max-width="350px" width="320px" align="right" alt="My Neighbor Totoro">
+<img src="https://i.pinimg.com/originals/01/7c/b9/017cb93bf13fdb75adaf2d379e6dba18.gif" min-width="350px" max-width="350px" width="310px" align="right" alt="My Neighbor Totoro">
 <img src="https://github.com/ananorberto/ananorberto/blob/main/octocat.png" min-width="350px" max-width="350px" width="150px" align="right">
 
 # Hi there! I'm Ana Beatriz 👋
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/ananorberto">
-  <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api?username=ananorberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananorberto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api?username=ananorberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananorberto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 
