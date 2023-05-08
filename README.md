@@ -8,17 +8,20 @@
 - 🎹 I play the piano in my free time.
 - 📫 How to reach me: norbertoana16@gmail.com
 
-##
+#
 <div align="center"> 
-  
-  <a href="https://instagram.com/ana_norbertto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:211041080@aluno.unb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-norberto-5822ab206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="center">
+  <a href="https://instagram.com/ana_norbertto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=inactive" target="_blank"></a>
+  <a href = "mailto:211041080@aluno.unb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=inactive" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-beatriz-norberto-5822ab206/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=inactive" target="_blank"></a>
+    <a href = "https://t.me/ananorberto"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=Telegram&logoColor=inactive" target="_blank"></a>
+
+
+  <div align="center">
   <a href="https://github.com/ananorberto">
   <img height="180em" width="34%" src="https://github-readme-stats.vercel.app/api?username=ananorberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananorberto&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   
 
