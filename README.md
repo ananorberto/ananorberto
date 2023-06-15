@@ -1,6 +1,8 @@
-
+<!--
 <img src="https://i.pinimg.com/originals/01/7c/b9/017cb93bf13fdb75adaf2d379e6dba18.gif" min-width="350px" max-width="350px" width="310px" align="right" alt="My Neighbor Totoro">
-<img src="https://github.com/ananorberto/ananorberto/blob/main/octocat.png" min-width="350px" max-width="350px" width="150px" align="right">
+-->
+
+<img src="https://github.com/ananorberto/ananorberto/blob/main/octocat.png" min-width="350px" max-width="350px" width="150px" align="right"> 
 
 # Hi there! I'm Ana Beatriz 👋
 
