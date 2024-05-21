@@ -6,7 +6,7 @@
 
 # Hi there! I'm Ana Beatriz 👋
 
-- 💻 6th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>.
+- 💻 7th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>.
 - 🎹 I play the piano in my free time.
 - 📫 How to reach me: norbertoana16@gmail.com
 
