@@ -2,13 +2,19 @@
 <img src="https://i.pinimg.com/originals/01/7c/b9/017cb93bf13fdb75adaf2d379e6dba18.gif" min-width="350px" max-width="350px" width="310px" align="right" alt="My Neighbor Totoro">
 -->
 
+
+# Hi there! I'm Ana Beatriz 👋 
 <img src="https://github.com/ananorberto/ananorberto/blob/main/octocat.png" min-width="350px" max-width="350px" width="150px" align="right"> 
 
-# Hi there! I'm Ana Beatriz 👋
 
-- 💻 8th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>.
-- 🎹 I play the piano in my free time.
-- 📫 How to reach me: norbertoana16@gmail.com
+💻 I'm a 9th-semester Software Engineering student at the [University of Brasília (UnB)](http://www.unb.br).  
+
+🎯 I enjoy creating clean, user-friendly digital experiences — from backend logic to frontend interaction.  
+
+🎹 Outside of tech, I play classical piano and contribute to open-source software (Debian ♥).  
+
+📫 Reach me at: norbertoana16@gmail.com
+
 
 #
 <div align="center"> 
@@ -25,7 +31,26 @@
   <img height="180em" width=33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananorberto&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
-  
+
+### 🛠️ Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+</div>
+
 
 
 <!--POSSIVEIS LINGUAGENS A SEREM UTILIZADAS
